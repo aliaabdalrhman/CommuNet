@@ -1,0 +1,44 @@
+.card {
+    scale: .92;
+    border: 1px solid #0000002c;
+    border-radius: 20px !important;
+    /* margin-left: 15px; */
+    width: 63%;
+    height: 150px;
+    margin-bottom: 10px;
+    
+}
+.Title{
+    margin-left: 240px;
+}
+.Title1{
+    margin-left: 230px ;
+
+}
+.content{
+    margin-top: 45px;
+    margin-left: 30px;
+}
+.check1{
+    margin-right: 50px !important;
+    margin-bottom: 12px !important;
+}
+.check2{
+    margin-right: 50px !important;
+    margin-bottom: 12px !important;
+}
+.info{
+    width:75% !important;
+}
+.TextField1{
+    width: 85%;
+    border: 1px solid #0000002c !important;
+    border-radius: 30px;
+    height: 60px;
+    cursor: pointer;
+    color:#0000009f ;
+    transition: all .4s;
+}
+/* .TextField1:hover {
+     font-size: 18px;
+} */

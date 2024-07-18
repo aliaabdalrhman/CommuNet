@@ -1,0 +1,144 @@
+.card {
+    scale: .92;
+    border: 1px solid #0000002c;
+    border-radius: 20px !important;
+    width: 63%;
+    max-height: none;
+    margin-bottom: 10px;
+    /* margin-left: 200px; */
+    /* position: relative; */
+}
+
+.content {
+    text-align: left !important;
+    width: 50%;
+    margin-left: 5px;
+}
+
+.slid {
+    height: 70% !important;
+    border-radius: 40px !important;
+}
+
+.Title {
+    font-weight: 600;
+    font-size: 22px;
+}
+
+.title1 {
+    font-size: 19px;
+    font-weight: 700;
+
+}
+
+.title {
+    font-size: 18px;
+    width: 180px;
+    font-weight: 600;
+}
+
+.info {
+    width: 220px;
+    margin-left: 10px;
+    font-size: 16px;
+}
+
+.img {
+    border-radius: 30px !important;
+    min-width: 70%;
+    max-height: 80%;
+    max-width: 80%;
+}
+
+.msgCard {
+    scale: .92;
+    border: 1px solid #0000002c;
+    border-radius: 20px !important;
+    width: 350px;
+}
+
+.msg {
+    width: 350px;
+}
+
+.msg:hover {
+    background-color: #5f6b7418;
+}
+
+.msgtime {
+    position: absolute;
+    right: 20px;
+    font-size: 13px;
+    margin-top: 5px;
+}
+
+.action .action1 {
+    transition: all .2s;
+}
+
+.action .action1:hover {
+
+    background-color: #0d0d0d19;
+
+}
+
+.comment {
+    border-radius: 10px !important;
+}
+
+.commentcontent {
+    padding:0px 12px;
+    border-radius: 15px;
+    background-color: #0d0d0d19;
+}
+
+.commentUser {
+    margin-top: 5px;
+    font-size: 16px !important;
+    font-weight: 600 !important;
+}
+.date{
+    font-size: 12px;
+    margin-left: 60px !important;
+}
+.msgcontent {
+    border: 1px solid #0000002c;
+    background-color: rgba(86, 86, 86, 0.841);
+
+    border-radius: 20px;
+    padding: 5px 10px;
+    height: fit-content;
+    width: fit-content;
+    color: #fff;
+}
+
+.msgcontent1 {
+    border: 1px solid #0000002c;
+    background-color: #156ac0;
+    border-radius: 20px;
+    padding: 5px 10px;
+    color: #fff;
+    height: fit-content;
+    width: fit-content;
+}
+
+.sendmsg {
+    border-radius: 10px !important;
+    width: 290px;
+}
+
+.outofstack {
+    height: 30px;
+    margin-top: 10px;
+}
+
+.List {
+    padding-top: 0px !important;
+
+}
+
+.ListItem {
+    padding-top: 5px !important;
+    padding-bottom: 8px !important;
+
+}
